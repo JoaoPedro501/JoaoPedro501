@@ -1,16 +1,11 @@
-### Hi there 👋
+# Olá! Eu sou o João Pedro 👋
 
-<!--
-**JoaoPedro501/JoaoPedro501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+- 🎓 Bacharelado em Sistemas de Informação no IFBA(cursando)
+- 🌱 Atualmente estou focado em aprender a linguagem de programação Golang
+- 💼 Buscando oportunidades de estágio
+- 📫 Você pode me contatar através do meu e-mail: santosjoaopedro640@gmail.com
+  
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedro501&show_icons=true&theme=chartreuse-dark&count_private=true)
+<img align="center" alt="Golang" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+<img align="center" alt="Java" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
